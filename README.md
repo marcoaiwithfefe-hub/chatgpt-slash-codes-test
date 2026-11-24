@@ -1,8 +1,8 @@
-# ChatGPT 99 個 code 唔使背：20 個實測對照
+# ChatGPT 神秘指令唔使背：20 個實測對照
 
-網上啲「ChatGPT 隱藏 code」（/SHORT、/TLDR、/PUSHBACK……）其實唔係 ChatGPT 功能。OpenAI 官方嘅斜線 command 清單得 28 個，全部係控制 app 嘅操作（例如 /model、/plan），一個都唔係呢啲。ChatGPT 只係當佢哋係普通字，估你想點。
+網上啲「ChatGPT 神秘指令」（/SHORT、/TLDR、/PUSHBACK……）其實唔係 ChatGPT 功能。OpenAI 官方嘅斜線 command 清單得 28 個，全部係控制 app 嘅操作（例如 /model、/plan），一個都唔係呢啲。ChatGPT 只係當佢哋係普通字，估你想點。
 
-所以我將最多人 share 嘅 20 個 code，逐個同一句普通廣東話（下面叫「白話」）對比：用同一份原文，各自開一個新嘅暫時對話 run 一次，再由 Gemini 4 Neon 盲測評分（佢唔知邊個係 code）。
+所以我將最多人 share 嘅 20 個神秘指令，逐個同一句普通廣東話（下面叫「白話」）對比：用同一份原文，各自開一個新嘅暫時對話 run 一次，再由 Gemini 4 Neon 盲測評分（佢唔知邊個係 code）。
 
 ## 結果
 
@@ -10,7 +10,7 @@
 - code 做到：**12 / 20**
 - 白話打和或者贏：**15 / 20**
 
-即係話：唔使背 code，直接講你要乜，多數更穩陣。有幾次 code 版排版靚啲（例如 /TLDR、/CHECKLIST），但白話都做到。
+即係話：唔使背指令，直接講你要乜，多數更穩陣。有幾次 code 版排版靚啲（例如 /TLDR、/CHECKLIST），但白話都做到。
 
 ## 20 個對照
 
